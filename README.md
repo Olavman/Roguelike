@@ -49,4 +49,4 @@ This project is a work in progress, with core movement and interface mechanics i
   - Game messages are displayed in the top left.
  
 ## Gameplay screenshot
-![Alt Text](./assets/screenshot.png)
+![Game Screenshot](./Assets/Screenshot.PNG)

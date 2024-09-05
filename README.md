@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Roguelike** is a procedurally generated, ASCII-based game that is currently under development. The game is inspired by classic roguelikes, featuring a simple yet effective line-of-sight system and basic inventory management. The project showcases my ability to work with procedural generation, user interface design in a command-line environment, and basic game mechanics.
+**Roguelike** is a procedurally generated, ASCII-based game that is currently under development. The game is inspired by classic roguelikes, featuring procedurally generated dungeons, basic movement actions, line-of-sight system and basic inventory management. The project showcases my ability to work with procedural generation, user interface design in a command-line environment, and basic game mechanics.
 
 ## Features
 

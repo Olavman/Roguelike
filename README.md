@@ -32,14 +32,10 @@ This project is a work in progress, with core movement and interface mechanics i
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Olavman/Roguelike.git
-   
-2. Navigate to the project directory:
-   ```bash
-   cd Roguelike
 
-3. Open the project in your preferred C# IDE (e.g. Visual studio).
+2. Open the project in your preferred C# IDE (e.g. Visual studio).
 
-4. Build and run the project from the IDE.
+3. Build and run the project from the IDE.
 
 ## Controls
 - **Movement:** 'W', 'A', 'S', 'D' keys to move through the dungeon.
